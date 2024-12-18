@@ -20,3 +20,14 @@
 ## Environment
 - Based MAC Track-1 offical Baseline
     - [github-baseline](https://github.com/VUT-HFUT/MAC_2024_baseline.git)
+
+## Citation
+```
+@inproceedings{li2024advancing,
+  title={Advancing Micro-Action Recognition with Multi-Auxiliary Heads and Hybrid Loss Optimization},
+  author={Li, Qiankun and Huang, Xiaolong and Chen, Huabao and He, Feng and Chen, Qiupu and Wang, Zengfu},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={11313--11319},
+  year={2024}
+}
+```
